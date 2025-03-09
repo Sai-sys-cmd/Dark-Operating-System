@@ -1,6 +1,6 @@
 # DarkOS - Building an OS on My Own
 
-DarkOS is a simple 64-bit operating system that I built from scratch. This project was a deep dive into low-level programming, covering everything from bootloading to kernel development.
+DarkOS is a simple 64-bit operating system that I built from scratch. This project was an intensive study into low-level programming, covering everything from bootloading to kernel development.
 
 ## Preview
 
