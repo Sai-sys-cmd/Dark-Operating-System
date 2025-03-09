@@ -7,8 +7,12 @@ DarkOS is a simple 64-bit operating system that I built from scratch. This proje
 ![DarkOS Boot Screen](initial_boot.png)
 *This is the setup page of DarkOS, displaying the initial boot sequence.*
 
+<br><br>
+
 ![DarkOS Running](running.png)
 *This is what happens when DarkOS is running, executing the core functionalities.*
+
+<br><br>
 
 ## How I Built It
 
