@@ -14,6 +14,11 @@ DarkOS is a simple 64-bit operating system that I built from scratch. This proje
 
 <br>
 
+![DarkOS Pong](pong.png)
+*This is the pong game that runs in DarkOS (W and S to move up and down for paddle 1 & I and J for paddle 2).*
+
+<br>
+
 ## How I Built It
 
 DarkOS was built using the following tools and files:
