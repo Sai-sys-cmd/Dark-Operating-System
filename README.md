@@ -15,7 +15,7 @@ DarkOS is a simple 64-bit operating system that I built from scratch. This proje
 <br>
 
 ![DarkOS Pong](pong.png)
-*This is the pong game that runs in DarkOS (W and S to move up and down for paddle 1 & I and J for paddle 2).*
+*This is the Pong game that runs in DarkOS (W/S to move paddle 1, I/J to move paddle 2).*
 
 <br>
 
@@ -24,7 +24,7 @@ DarkOS is a simple 64-bit operating system that I built from scratch. This proje
 DarkOS was built using the following tools and files:
 - **Docker**: Used to create a reproducible build environment.
 - **Qemu**: Emulated the OS without needing real hardware.
-- **Assembly & C**: Developed core OS components, including bootloading, kernel execution and pong.
+- **Assembly & C**: Developed core OS components, including bootloading, kernel execution and Pong.
 - **Key files used in the build process:**
   - `.gitattributes`, `.vscode/` (configuration files)
   - `LICENSE`, `Makefile` (project setup and build rules)
