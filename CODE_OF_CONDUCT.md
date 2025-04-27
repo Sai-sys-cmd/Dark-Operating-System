@@ -10,7 +10,7 @@ Thanks for your interest in contributing to DarkOS! This project is open source,
 ### 2. **Clone Your Fork**
 - On your local machine, open the terminal and clone the forked repo:
   ```bash
-  git clone https://github.com/YOUR_USERNAME/DarkOS.git
+  git clone https://github.com/YOUR_USERNAME/Dark-Operating-System.git
   ```
 
 ### 3. **Create a New Branch**
